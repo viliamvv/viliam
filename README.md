@@ -1,0 +1,2 @@
+# viliam
+git skolenie
